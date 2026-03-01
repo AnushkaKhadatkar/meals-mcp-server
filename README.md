@@ -129,4 +129,12 @@ python meals_server.py
 
 ---
 
-*Built by Anushka Rajesh Khadatkar*
+## 👤 Author
+
+**Anushka Khadatkar**  
+- GitHub: [AnushkaKhadatkar](https://github.com/AnushkaKhadatkar)
+- Email: Anushkak1202@gmail.com
+- LinkedIn: [Anushka Khadatkar](https://www.linkedin.com/in/anushka-khadatkar/)
+- Medium: [Anushka Khadatkar] (https://medium.com/@anushkak1202)
+
+---
