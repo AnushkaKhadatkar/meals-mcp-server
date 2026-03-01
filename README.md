@@ -64,9 +64,16 @@ python meals_server.py
 {
   "mcpServers": {
     "meals": {
-      "command": "python",
-      "args": ["/absolute/path/to/meals-mcp-server/meals_server.py"]
+      "command": "/Users/spartan/Desktop/DATA 236 (Distributed)/Homework/HW 5/part 2/venv/bin/python",
+      "args": [
+        "/Users/spartan/Desktop/DATA 236 (Distributed)/Homework/HW 5/part 2/meals_server.py"
+      ]
     }
+  },
+  "preferences": {
+    "coworkWebSearchEnabled": true,
+    "sidebarMode": "chat",
+    "coworkScheduledTasksEnabled": false
   }
 }
 ```
