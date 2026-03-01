@@ -118,15 +118,6 @@ python meals_server.py
 
 ---
 
-## 📦 Dependencies
-
-```
-mcp
-httpx
-```
-
----
-
 ## 🛠️ Built With
 
 - [MCP (Model Context Protocol)](https://modelcontextprotocol.io) — Claude tool integration
