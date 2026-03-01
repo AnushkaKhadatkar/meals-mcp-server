@@ -103,7 +103,9 @@ python meals_server.py
 ![MCP Server](screenshots/mcp_server.png)
 
 ### 🔍 Search Meals by Name
-![Meal by Name](screenshots/meal_by_name.png)
+![Meal by Name](screenshots/meal_by_name mcp.png)
+![Meal by Name](screenshots/meal_by_name 1.png)
+![Meal by Name](screenshots/meal_by_name 2.png)
 
 ### 🥦 Search by Ingredient
 ![Meal by Ingredient](screenshots/meal_by_ingredient.png)
