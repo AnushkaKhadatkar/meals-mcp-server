@@ -103,18 +103,21 @@ python meals_server.py
 ![MCP Server](screenshots/mcp_server.png)
 
 ### 🔍 Search Meals by Name
-![Meal by Name](screenshots/meal_by_name mcp.png)
-![Meal by Name](screenshots/meal_by_name 1.png)
-![Meal by Name](screenshots/meal_by_name 2.png)
+![Meal by Name](screenshots/meal_by_name_mcp.png)
+![Meal by Name](screenshots/meal_by_name_1.png)
+![Meal by Name](screenshots/meal_by_name_2.png)
 
 ### 🥦 Search by Ingredient
+![Meal by Ingredient](screenshots/meal_by_ingredient_mcp.png)
 ![Meal by Ingredient](screenshots/meal_by_ingredient.png)
 
 ### 📋 Meal Details by ID
 ![Meal by ID](screenshots/meal_by_id.png)
+![Meal by ID](screenshots/meal_by_id_1.png)
+![Meal by ID](screenshots/meal_by_id_2.png)
 
 ### 🎲 Random Meal
-![Random Meal](screenshots/random_meal.png)
+![Random Meal](screenshots/random_meal_claude.png)
 
 ---
 
